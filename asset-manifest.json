@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Terms-and-Conditions-Summarizer/static/css/main.e90e3dff.css",
+    "main.js": "/Terms-and-Conditions-Summarizer/static/js/main.101d2bda.js",
+    "static/js/453.15ea87d8.chunk.js": "/Terms-and-Conditions-Summarizer/static/js/453.15ea87d8.chunk.js",
+    "index.html": "/Terms-and-Conditions-Summarizer/index.html",
+    "main.e90e3dff.css.map": "/Terms-and-Conditions-Summarizer/static/css/main.e90e3dff.css.map",
+    "main.101d2bda.js.map": "/Terms-and-Conditions-Summarizer/static/js/main.101d2bda.js.map",
+    "453.15ea87d8.chunk.js.map": "/Terms-and-Conditions-Summarizer/static/js/453.15ea87d8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e90e3dff.css",
+    "static/js/main.101d2bda.js"
+  ]
+}
